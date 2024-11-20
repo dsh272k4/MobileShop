@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\MobileShop\MobileShop\bin\Debug\MobileShop.exe.config
+C:\Users\Admin\source\repos\MobileShop\MobileShop\bin\Debug\MobileShop.exe
+C:\Users\Admin\source\repos\MobileShop\MobileShop\bin\Debug\MobileShop.pdb
+C:\Users\Admin\source\repos\MobileShop\MobileShop\obj\Debug\MobileShop.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MobileShop\MobileShop\obj\Debug\MobileShop.Form1.resources
+C:\Users\Admin\source\repos\MobileShop\MobileShop\obj\Debug\MobileShop.Properties.Resources.resources
+C:\Users\Admin\source\repos\MobileShop\MobileShop\obj\Debug\MobileShop.view.frmDangNhap.resources
+C:\Users\Admin\source\repos\MobileShop\MobileShop\obj\Debug\MobileShop.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MobileShop\MobileShop\obj\Debug\MobileShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MobileShop\MobileShop\obj\Debug\MobileShop.exe
+C:\Users\Admin\source\repos\MobileShop\MobileShop\obj\Debug\MobileShop.pdb
+C:\Users\Admin\source\repos\MobileShop\MobileShop\obj\Debug\MobileShop.view.frmMain.resources

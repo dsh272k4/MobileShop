@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MobileShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|c:\\users\\admin\\source\\repos\\mobileshop\\mobileshop\\model\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|solutionrelative:mobileshop\\model\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|c:\\users\\admin\\source\\repos\\mobileshop\\mobileshop\\model\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|solutionrelative:mobileshop\\model\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|c:\\users\\admin\\source\\repos\\mobileshop\\mobileshop\\model\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|solutionrelative:mobileshop\\model\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|c:\\users\\admin\\source\\repos\\mobileshop\\mobileshop\\controller\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|solutionrelative:mobileshop\\controller\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|c:\\users\\admin\\source\\repos\\mobileshop\\mobileshop\\model\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|solutionrelative:mobileshop\\model\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|c:\\users\\admin\\source\\repos\\mobileshop\\mobileshop\\controller\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|solutionrelative:mobileshop\\controller\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|c:\\users\\admin\\source\\repos\\mobileshop\\mobileshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|solutionrelative:mobileshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|c:\\users\\admin\\source\\repos\\mobileshop\\mobileshop\\test\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|solutionrelative:mobileshop\\test\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|c:\\users\\admin\\source\\repos\\mobileshop\\mobileshop\\view\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|solutionrelative:mobileshop\\view\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|c:\\users\\admin\\source\\repos\\mobileshop\\mobileshop\\view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|solutionrelative:mobileshop\\view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|c:\\users\\admin\\source\\repos\\mobileshop\\mobileshop\\view\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|solutionrelative:mobileshop\\view\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|c:\\users\\admin\\source\\repos\\mobileshop\\mobileshop\\view\\frmdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|solutionrelative:mobileshop\\view\\frmdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|c:\\users\\admin\\source\\repos\\mobileshop\\mobileshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39D0CFAD-602D-4205-BB03-D1356128163D}|MobileShop\\MobileShop.csproj|solutionrelative:mobileshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\model\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "MobileShop\\model\\NguoiDung.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\model\\NguoiDung.cs*",
+              "RelativeToolTip": "MobileShop\\model\\NguoiDung.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:23:22.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\model\\KhachHang.cs",
+              "RelativeDocumentMoniker": "MobileShop\\model\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\model\\KhachHang.cs",
+              "RelativeToolTip": "MobileShop\\model\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:22:49.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NguoiDungController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\controller\\NguoiDungController.cs",
+              "RelativeDocumentMoniker": "MobileShop\\controller\\NguoiDungController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\controller\\NguoiDungController.cs*",
+              "RelativeToolTip": "MobileShop\\controller\\NguoiDungController.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:33:16.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\Program.cs",
+              "RelativeDocumentMoniker": "MobileShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\Program.cs",
+              "RelativeToolTip": "MobileShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:44:00.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbConnect.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\controller\\DbConnect.cs",
+              "RelativeDocumentMoniker": "MobileShop\\controller\\DbConnect.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\controller\\DbConnect.cs",
+              "RelativeToolTip": "MobileShop\\controller\\DbConnect.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:30:11.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\model\\DonHang.cs",
+              "RelativeDocumentMoniker": "MobileShop\\model\\DonHang.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\model\\DonHang.cs",
+              "RelativeToolTip": "MobileShop\\model\\DonHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:23:07.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\model\\SanPham.cs",
+              "RelativeDocumentMoniker": "MobileShop\\model\\SanPham.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\model\\SanPham.cs",
+              "RelativeToolTip": "MobileShop\\model\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:22:29.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\view\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "MobileShop\\view\\frmDangNhap.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\view\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "MobileShop\\view\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:24:06.631Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\test\\Test.cs",
+              "RelativeDocumentMoniker": "MobileShop\\test\\Test.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\test\\Test.cs",
+              "RelativeToolTip": "MobileShop\\test\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:43:56.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\view\\frmMain.cs",
+              "RelativeDocumentMoniker": "MobileShop\\view\\frmMain.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\view\\frmMain.cs [Design]",
+              "RelativeToolTip": "MobileShop\\view\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:42:28.247Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\view\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "MobileShop\\view\\frmDangNhap.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\view\\frmDangNhap.cs",
+              "RelativeToolTip": "MobileShop\\view\\frmDangNhap.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:38:41.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmDangNhap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\view\\frmDangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "MobileShop\\view\\frmDangNhap.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\view\\frmDangNhap.Designer.cs",
+              "RelativeToolTip": "MobileShop\\view\\frmDangNhap.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:40:00.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\Form1.cs",
+              "RelativeDocumentMoniker": "MobileShop\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MobileShop\\MobileShop\\Form1.cs [Design]",
+              "RelativeToolTip": "MobileShop\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:17:36.052Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
